@@ -1,0 +1,50 @@
+{
+  "Restaurants": [
+    {
+      "RestaurantName": "Crimson Coward",
+      "RestaurantDescription": "Los Angeles native and Nashville-inspired Crimson Coward commit to bringing the Nashville Hot Chicken phenomenon to the masses. Our time meeting real Nashville chefs and exploring the most incredible eateries and hot chicken joints in Nashville was inspiring. We dedicate our expertise to producing great quality and excellent food. Here at Crimson Coward, we pride ourselves on serving Nashville hot chicken that does not compromise quality or flavor. Our food redefines quality by using only the freshest ingredients, including signature sides made fresh daily. We only serve premium, all-natural, Non-GMO chicken free of hormones and antibiotics. We source from some of the most reputable farms.",
+      "RestaurantRating": "4.5/5",
+      "RestaurantFoodType": "Nashville Chicken Sandwich",
+      "RestaurantAddress": "12707 Ridgefield Village Dr Suite #105, Woodbridge, VA 22193",
+      "RestaurantWebsite": "https://www.crimsoncoward.com/locations/crimson-coward-woodbridge-virginia/",
+      "RestaurantImage": "crimson.jpg"
+    },
+    {
+      "RestaurantName": "Buffalo Wild Wings",
+      "RestaurantDescription": "Buffalo Wild Wings is an American casual dining restaurant and sports bar franchise in the United States, India, Mexico, Panama, Philippines, Saudi Arabia, and United Arab Emirates which specializes in Buffalo wings and sauces.",
+      "RestaurantRating": "4.3/5",
+      "RestaurantFoodType": "Fast Food",
+      "RestaurantAddress": "14466 Potomac Mills Rd, Woodbridge, VA 22192",
+      "RestaurantWebsite": "https://www.buffalowildwings.com/",
+      "RestaurantImage": "buffalo.jpg"
+    },
+    {
+      "RestaurantName": "Adels Famous",
+      "RestaurantDescription": "This Middle Eastern food truck prepares halal gyros.",
+      "RestaurantRating": "5/5",
+      "RestaurantFoodType": "Falafel/Gyro",
+      "RestaurantAddress": "1221 6th Ave, New York, NY 10020",
+      "RestaurantWebsite": "https://adels-famous-halal-food.business.site/?utm_source=gmb&utm_medium=referral",
+      "RestaurantImage": "adels.jpg"
+    },
+    {
+      "RestaurantName": "District Gyro",
+      "RestaurantDescription": "Founded in 2017, with inspiration from New York Street food, DCG has brought the popular tastes to Washington DC, Virginia, and Maryland. The flagship location gained popularity in Georgetown, with people traveling extended distances and standing in long lines to be a part of the DCG experience.",
+      "RestaurantRating": "4.9/5",
+      "RestaurantFoodType": "Falafel & gyros",
+      "RestaurantAddress": "1927 Old Gallows Rd, Vienna, VA 22182",
+      "RestaurantWebsite": "https://tastedcg.com/",
+      "RestaurantImage": "dcg.jpg"
+    },
+    {
+      "RestaurantName": "Daves Hot Chicken",
+      "RestaurantDescription": "Dave’s Hot Chicken was created by best friends Dave Kopushyan, Arman Oganesyan, and Tommy and Gary Rubenyan. Dave, a chef trained in Thomas Keller’s (French Laundry) organization set out to create the perfect Hot Chicken by searching, tasting, and frying. The four friends scrounged up $900 to put a tiny stand in an East Hollywood parking lot. The menu was simple, and the chicken was the star. Sourced and prepared to be the juiciest and most tender chicken imaginable, each piece is topped with Dave’s signature mix of spices ranging from No Spice to “The Reaper.”",
+      "RestaurantRating": "4.3/5",
+      "RestaurantFoodType": "Nashville-style hot chicken",
+      "RestaurantAddress": "3301 14th St NW, Washington, DC 20010",
+      "RestaurantWebsite": "https://www.daveshotchicken.com/",
+      "RestaurantImage": "daves.jpg"
+    }
+  ],
+  "Status": "OK"
+}
