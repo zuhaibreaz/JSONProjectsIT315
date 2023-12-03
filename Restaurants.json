@@ -7,7 +7,7 @@
       "RestaurantFoodType": "Nashville Chicken Sandwich",
       "RestaurantAddress": "12707 Ridgefield Village Dr Suite #105, Woodbridge, VA 22193",
       "RestaurantWebsite": "https://www.crimsoncoward.com/locations/crimson-coward-woodbridge-virginia/",
-      "RestaurantImage": "crimson.jpg"
+      "RestaurantImage": "https://raw.githubusercontent.com/zuhaibreaz/JSONProjectsIT315/master/crimson.jpg"
     },
     {
       "RestaurantName": "Buffalo Wild Wings",
@@ -16,7 +16,7 @@
       "RestaurantFoodType": "Fast Food",
       "RestaurantAddress": "14466 Potomac Mills Rd, Woodbridge, VA 22192",
       "RestaurantWebsite": "https://www.buffalowildwings.com/",
-      "RestaurantImage": "buffalo.jpg"
+      "RestaurantImage": "https://raw.githubusercontent.com/zuhaibreaz/JSONProjectsIT315/master/buffalo.jpg"
     },
     {
       "RestaurantName": "Adels Famous",
@@ -25,7 +25,7 @@
       "RestaurantFoodType": "Falafel/Gyro",
       "RestaurantAddress": "1221 6th Ave, New York, NY 10020",
       "RestaurantWebsite": "https://adels-famous-halal-food.business.site/?utm_source=gmb&utm_medium=referral",
-      "RestaurantImage": "adels.jpg"
+      "RestaurantImage": "https://raw.githubusercontent.com/zuhaibreaz/JSONProjectsIT315/master/adels.jpg"
     },
     {
       "RestaurantName": "District Gyro",
@@ -34,7 +34,7 @@
       "RestaurantFoodType": "Falafel & gyros",
       "RestaurantAddress": "1927 Old Gallows Rd, Vienna, VA 22182",
       "RestaurantWebsite": "https://tastedcg.com/",
-      "RestaurantImage": "dcg.jpg"
+      "RestaurantImage": "https://raw.githubusercontent.com/zuhaibreaz/JSONProjectsIT315/master/dcg.jpg"
     },
     {
       "RestaurantName": "Daves Hot Chicken",
@@ -43,7 +43,7 @@
       "RestaurantFoodType": "Nashville-style hot chicken",
       "RestaurantAddress": "3301 14th St NW, Washington, DC 20010",
       "RestaurantWebsite": "https://www.daveshotchicken.com/",
-      "RestaurantImage": "daves.jpg"
+      "RestaurantImage": "https://raw.githubusercontent.com/zuhaibreaz/JSONProjectsIT315/master/daves.jpg"
     }
   ],
   "Status": "OK"
